@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D438906F-2848-4C15-B09B-BB68F7475DFF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="demoapp/Default.aspx">
+    <Files>
+      <File FileName="demoapp/Default.aspx" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="demoapp" expanded="True" selected="True">
+            <Node name="demoapp" expanded="True">
+              <Node name="My Project" expanded="True">
+                <Node name="MyExtensions" expanded="True" />
+                <Node name="Application.myapp" expanded="True" />
+                <Node name="Resources.resx" expanded="True" />
+                <Node name="Settings.settings" expanded="True" />
+              </Node>
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="Web.config" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.demoapp PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
